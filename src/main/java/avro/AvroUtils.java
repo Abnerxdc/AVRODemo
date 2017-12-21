@@ -97,7 +97,7 @@ public class AvroUtils {
     /**
      * 序列化逻辑（简单版）
      * @param schema 规则
-     * @param map 数据BB
+     * @param map 数据CC
      * @return 序列化后的数据
      */
     public static byte[] getSerizilizeSimple(Schema schema , Map<String,String> map) {
